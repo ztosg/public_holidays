@@ -8,7 +8,7 @@
 
 ## How to use?
 
-You can access this via HTTP GET at https://ztosg.github.io/public_holidays/`<countrycode>`/`<year>`.json
+You can access this via HTTP GET at https://ztosg.github.io/public_holidays/<countrycode>/<year>.json
 
 E.g, https://ztosg.github.io/public_holidays/sg/2023.json
 
